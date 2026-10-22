@@ -1,3 +1,5 @@
+> **This project's home is now [github.com/globe-teck/agent-email-safety](https://github.com/globe-teck/agent-email-safety).** This copy stays up for existing links. Please open issues and pull requests there.
+
 # agent-email-safety
 
 A sanitized write-up of email-safety work done on 2026-10-18 for a small team of AI agents that read and act on email. It covers the threat model, a canary test, a guard that keeps verification-code mail away from bot inboxes, a design for a safe cPanel connector, and the test results.
